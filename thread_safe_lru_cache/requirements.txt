@@ -1,1 +1,2 @@
-typing
+# No external dependencies required.
+# This project uses only Python's standard library.
